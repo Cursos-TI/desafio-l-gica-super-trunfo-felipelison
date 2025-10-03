@@ -71,7 +71,6 @@ int main (){
     pibpercapita2 = pib2 / populacao2;
 
     //MENU INTERATIVO
-
     printf("\nQual atributo você escolherá? (Você é a carta 1)\n");
     printf("1.População\n");
     printf("2.Área\n");
